@@ -45,7 +45,7 @@ INSERT INTO `varmegyek` (`id`, `nev`) VALUES
 ('BK', 'Bács-Kiskun'),
 ('BP', 'Budapest'),
 ('BZ', 'Borsod-Abaúj-Zemplén'),
-('CS', 'Csongrád'),
+('CS', 'Csongrád-Csanád'),
 ('FE', 'Fejér'),
 ('GS', 'Győr-Moson-Sopron'),
 ('HB', 'Hajdú-Bihar'),
